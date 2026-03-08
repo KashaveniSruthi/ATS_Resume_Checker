@@ -140,7 +140,7 @@ Ensure the response is structured, clear, and easy to display in a React app.
             method: 'POST',
             headers: {
                 'content-type': 'application/json',
-                'X-goog-api-key': 'AIzaSyBId730QY0s12M3LboQp-THqJMY7jXpSEQ'
+                'X-goog-api-key': "AIzaSyCTeMZR-vbqSITVhOPm2JJrzem1D4G73P4"
             },
             body: `{"contents": [{"parts": [{ "text": "${prompt}"} ]} ]}`
         };
