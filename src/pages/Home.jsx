@@ -279,16 +279,14 @@ Ensure the response is structured, clear, and easy to display in a React app.
                                         >
                                             <i className="bi bi-magic me-2"></i>
                                             Generate AI-Powered Resume & Cover Letter
+                                            {sendResponse}
                                         </button>
                                     </div>
                                 </form>
                             </div>
                         </div>
 
-                        <ResultPage
-                            geminiResponse={geminiResponse}
-                            parseAndDisplayResponse={parseAndDisplayResponse}
-                        />
+                        
                     </div>
                 </div>
             </div>
