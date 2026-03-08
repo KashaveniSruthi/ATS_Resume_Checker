@@ -25,7 +25,7 @@ This project helps job seekers improve their resumes and increase their chances 
 
 - State Management: React Hooks
   
-## Installation ⚙️
+## Installation 
 1️⃣ Clone the repository
 ```
 git clone https://github.com/your-username/ai-resume-builder.git
@@ -58,9 +58,7 @@ This project uses the Google Gemini API.
 X-goog-api-key: "YOUR_API_KEY"
 ```
 
-⚠️ Important: Do not expose your API key in public repositories.
-
-# How It Works ⚡
+# How It Works 
 ## 1.User enters:
 
   - Company Name
@@ -87,7 +85,7 @@ X-goog-api-key: "YOUR_API_KEY"
 
 ## 4.Results are displayed in structured sections in the UI.
 
-## Future Improvements 🚀
+## Future Improvements 
 
 - Resume PDF upload and parsing
 
