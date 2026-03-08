@@ -1,7 +1,6 @@
 import React from "react";
 import { useState } from "react";
 import "../App.css";
-import ResultPage from "../components/ResultPage";
 function HomePage() {
     const [formData, setFormData] = useState({
         companyName: "",
